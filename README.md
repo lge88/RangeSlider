@@ -1,5 +1,6 @@
 # RangeSlider
-
+## Screenshot
+![screenshot.png](https://github.com/lge88/RangeSlider/blob/master/screenshot.png)
 ## Usage:
 See `ViewController.swift` for more detail.
 
